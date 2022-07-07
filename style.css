@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    font-family: 'Noto Serif', serif;
+}
+section{
+    
+    height: 500px;
+    padding-bottom: 150px;
+    text-align: center;
+    
+}
+.bgm{
+    background-image: url("images/donation13.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+
+    
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: rgb(42, 248, 76);
+    letter-spacing: 8px;
+}
+h1 span{
+    color:orange;
+}
+h3{
+    text-align: center;
+    padding: 25px;
+    color: rgb(53, 226, 146);
+    margin: 50px;
+
+}
+.sec1p{
+    color: azure;
+    font-size: 20px;
+}
+.button{
+    
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding : 40px 40px;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    align-items: center;
+    margin: auto;
+    
+}
+.anchor{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+p{
+    color: rgb(230, 220, 220);
+    text-align: center;
+    padding: 20px;
+    
+}
+.sec2 {
+    height: 150%;
+    background: none;
+    padding: 400px 50px 200px 50px;
+    
+}
+.sec2h1{
+    color: brown;
+}
+.container{
+text-align: center;
+}
+.btn1{
+    padding: 40px;
+    background-color: rgb(199, 194, 194);
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+
+}
+.btn2{
+    padding: 40px;
+    background-color: rgb(248, 182, 182) ;
+    font-size: 40px;
+    color: rgb(235, 99, 99);
+    border-radius: 5px;
+    border-style: outset;
+    border-color: red;
+
+}
+.btn3{
+    padding: 40px;
+    background-color: rgb(199, 194, 194);
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: none;
+
+}
+.btn4{
+    padding: 40px;
+    background-color:rgb(199, 194, 194) ;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: none;
+
+}
+.btn5{
+    padding:40PX ;
+    background-color: rgb(199, 194, 194);
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: none;
+
+}
+.input-field{
+    width: 80%;
+    outline: 0;
+    border: 0;
+    border-bottom: 2px solid #999999;
+    padding: 20px;
+    background: transparent;
+    font-size: 40px;
+    text-align: center;
+}
+.sec3h1{
+    color:brown;
+    font-size: 50px;
+}
+.contain{
+    width: 100%;
+    height: auto;
+    background: burlywood;
+    display: flex;
+    flex-direction: row;
+}
+    
+.box{
+    width: 100%;
+    height: auto;
+    background: rgb(213, 233, 184);
+    margin: 15px;
+    padding: 5px;
+    color: rgb(41, 39, 39);
+    text-align: center;
+}
+p{
+    color: rgb(21, 34, 46);
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    
+}
+footer p{
+    color: orange;
+}
